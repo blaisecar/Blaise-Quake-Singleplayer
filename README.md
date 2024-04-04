@@ -1,7 +1,7 @@
 # Blaise-Quake-Singleplayer
 Explanation for Singleplayer Quake Stuff
 
-THEME / Wads
+THEME / WADs
 
 The theme I want to go for is a sort of gothic clocktower, where you ascend higher and higher and face more and more difficult threats, the tower being located in some sort of city at night. This is inspired from a
 location form a video game I am currently working on, which that location in itself was lightly inspired from the Clocktower in Dead Cells as well as Bloodborne. As for the story of the area, it is intended to be the stronghold of a powerful individual who controls the flow of time, residing at the top, while having leigons of minions at the levels below to protect them. Of course I won't be implementing proper plot and characters, and willl have these all replaced with Quake enemies, the story being told purely through the enviroment and level design, the ascension of the level showing how it is indeed a tower. I would also like to have some sort of outside platforms around the tower that you traverse to, to see the skyline and see how big the tower is that you climb.
