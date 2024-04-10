@@ -31,3 +31,50 @@ Map Analysis
 Episode 2, Map 1
 
 The map we played we were collectively not huge fans of. The main idea was going through many corridors in a dark factory-like level in order to progress by getting keycards, then tracking back and using those keycards on corresponding doors. The concept was fun, but the map was far too dark and confusing to really support the idea. The textures were quite samey, and the darkness made it hard to naviagate, and even the usage of the keycards itself confused me. Because of these things, the intended exploration and backtracking can fall flat, because the level layout is so hard to remember and move around in. For me personally, the layout made me feel a bit sick to play with all the turns and weird lighting. The enemies were a little more interesting, with some on cliffs and stuff like that, but I found their placements largely kind of boring too. I think if the lighting was properly rendered for us, like it looks in videos of the map, it would make the keycards and backtracking and enemies more fun and interesting. But in the state that we played it in, we did not find it to be a super fun level, not the best designed. 
+
+ENEMIES
+
+Ranged: ENFORCER
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/69998e96-b49f-494f-a5e4-9da25c3b4b41)
+This guy shoots lasers. I wanted the clock tower to be partially futuristic, so I think he works well as a ranged enemy.
+
+Melee: KNIGHT
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/8fb3aa74-15da-44ca-a98d-86b52f2da6ff)
+These are some of the only melee units. They can come out from surprise walls and stuff like that.
+
+Swarmer: ROTTWEILER
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/f083e045-be61-4fbc-8837-9058e59580df)
+Not much here, but a typical swarm creature.
+
+Heavy: DEATH KNIGHT
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/3c905443-38aa-482f-9626-4f861e3ad43e)
+This guy fits the aesthetic well and can be used as a sort of miniboss.
+
+LAYOUT
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/cc50a7bc-4679-4187-842b-1ff3f614fd2a)
+
+The Clocktower is, as the name suggests, a tower. It opens with...
+
+ENTRANCE ROOM
+Nothinig here but some weapons and some bridges, and a staircase leading to...
+
+FLOOR 1 - Twisting Gear
+Basic combat trial. Things will not be terribly hard, as you fight in an open circular room, and make your way to the next level. I think it would be cool if I could have the fighting platform on a turning gear-shaped object, and perhaps make that a design motif in the whole level. 
+
+FLOOR 2 - Clockwork Halls
+Things get interesting now. There are now corridors you must traverse, and there will be melee enemies who appear to surprise you. There is also a new gun hidden somehwere with a secret button.
+
+FLOOR 3 - Perilous Chasms
+Things continue to get harder. Swarmers now appear, and there are lava pits and traps, and a small bit of platforming. There is a secret key somewhere that can take you to the Terrace, or you can find the basic staircase. There will also be big pits with big chains.
+
+TOWER TERRACE
+Tower Terrace is an outside bridge area that surrounds the tower, allowing you to see it from outside. It has you face a few hard creatures in an open patio, then rewards you with armor and an easy passage to the Observatory.
+
+FLOOR 4 - Continued Chasms
+Largely more of the same as Floor 3, but you will need to find a key to progress to the Observatory.
+
+OBSERVATORY
+Top floor of the tower, has many stained glass windows and a miniboss. After the fight, you make your way to the top of the tower.
+
+ROOF - Moonlit Shrine
+This is where you fight the final boss, and win the game if you emerge victorious. 
