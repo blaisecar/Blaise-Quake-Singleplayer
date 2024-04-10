@@ -78,3 +78,15 @@ Top floor of the tower, has many stained glass windows and a miniboss. After the
 
 ROOF - Moonlit Shrine
 This is where you fight the final boss, and win the game if you emerge victorious. 
+
+
+OVERHEAD GAMEPLAY CONCEPTS
+
+Floor 1 - Twisting Gear
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/7f16478a-6201-4726-a81a-2211faf6727d)
+
+This is a basic first level with not much complexity, as a combative warmup. There are creatures in the center who shoot at you, who will be protected by walls, that will go down once the melee units who rise up from below to attack you are defeated. The map is also rotating (if that is possible to do) which changes where your cover from the ranged creatures is located. Supposed to be a quick but fast paced skirmish. After this encounter, you can go to the next level. 
+
+Tower Terrace
+![image](https://github.com/blaisecar/Blaise-Quake-Singleplayer/assets/153130544/079e44d8-f7d4-4f3e-83bb-d14cdda0a37c)
+This is an alternative to Floor 4, although maybe I could make it the default floor 4. It's a little confusing at first, but the red door is the secret door in Floor 3 you use to access the terrace. You then run across a bridge with some cover and ranged creatures shooting at you. You then must fight on a platform against 2 hard enemies, which gives you the green key, to progress forward. You then fight some more creatures, and then go across a bridge of staircases and connecting towers. One of these towers can be jumped to from above, which grants the player the rocket launcher, as well as the purple key. The launcher can be used to get back up (more platforms may appear upon getting the launcher as well) and continue onward. After this, the game loops back around to the tower, where you follow a spiral staircase around its perimeter, and are ambushed by creatures who jump out of a window on the way up. Once you get to the purple key door, you can use the purple key and go onwards to the Observatory. If you don't have the purple key, there is a shortcut through the tower that takes you to an alternate vantage point to jump and get the purple key.
